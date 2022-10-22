@@ -1,6 +1,3 @@
-//Erkut Ter
-//118202076
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
